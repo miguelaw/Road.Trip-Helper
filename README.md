@@ -1,5 +1,7 @@
 # Creative Solutions: Trip Helper (Project 1)
 
+https://miguelaw.github.io/Road.Trip-Helper/
+
 Team Members:
 -Johanna Honma
 -Anthony Kehn
